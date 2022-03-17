@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/surajverma2587/book-app-server.git"
+    "url": "git+https://github.com/intisarmohamed/book-search-engine.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/surajverma2587/book-app-server/issues"
+    "url": "https://github.com/intisarmohamed/book-search-engine/issues"
   },
-  "homepage": "https://github.com/surajverma2587/book-app-server#readme",
+  "homepage": "https://github.com/intisarmohamed/book-search-engine#readme",
   "dependencies": {
     "apollo-server": "^3.6.3",
     "bcrypt": "^5.0.1",
